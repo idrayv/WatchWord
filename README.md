@@ -1,4 +1,6 @@
 # :movie_camera: WatchWord
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fidrayv%2FWatchWord.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fidrayv%2FWatchWord?ref=badge_shield)
+
 
 :zap: Angular project: ./angular  
 :cloud: .Net core project: ./aspnet-core
@@ -20,3 +22,7 @@
 06. `cd ./angular`
 07. `npm run deploy`
 08. Publish ./aspnet-core/src/WatchWord.Web.Host/ to Azure
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fidrayv%2FWatchWord.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fidrayv%2FWatchWord?ref=badge_large)
